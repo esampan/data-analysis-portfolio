@@ -10,6 +10,8 @@ Welcome to my portfolio repository containing my projects in:
 
 ### Excel Dashboard
 - Store Sales Monitoring Dashboard
+- [Store Sales Monitoring Dashboard](https://github.com/esampan/excel-store-sales-dashboard)
+
 
 ### SQL Projects
 - SQL Data Analysis Projects
