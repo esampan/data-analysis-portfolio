@@ -17,7 +17,7 @@ Welcome to my portfolio repository containing my projects in:
 - [SQL Data Analysis Projects](https://github.com/esampan/SQL-sales-analysis)
 
 ### Power BI Dashboard
-- Manufacturing Downtime Dashboard
+- [Manufacturing Downtime Dashboard](https://github.com/esampan/power-bi-analysis)
 
 ### Machine Learning
 - Machine Learning Projects using Google Colab
