@@ -1,10 +1,11 @@
 Welcome to my portfolio repository containing my projects in:
 
 - SQL
+- Data Visualization
 - Excel Dashboards
 - Power BI
 - Machine Learning
-- Data Visualization
+
 
 ## Projects
 
