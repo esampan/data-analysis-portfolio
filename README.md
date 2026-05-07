@@ -13,7 +13,7 @@ Welcome to my portfolio repository containing my projects in:
 
 
 ### SQL Projects
-- SQL Data Analysis Projects
+- [SQL Data Analysis Projects](https://github.com/esampan/SQL-sales-analysis)
 
 ### Power BI Dashboard
 - Manufacturing Downtime Dashboard
