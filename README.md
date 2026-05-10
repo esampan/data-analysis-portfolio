@@ -20,4 +20,4 @@ Welcome to my portfolio repository containing my projects in:
 - [Manufacturing Downtime Dashboard](https://github.com/esampan/power-bi-analysis)
 
 ### Machine Learning
-- Machine Learning Projects using Google Colab
+- [Machine Learning Projects using Google Colab](https://github.com/esampan/heart-disease-prediction)
